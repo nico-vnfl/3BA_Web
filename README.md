@@ -1,2 +1,2 @@
-# 3BA_Web
-Repository for labo's applications and exos
+# 3BA_Web_my-portfolio
+Repository for labo's applications (portfolio) and exos
